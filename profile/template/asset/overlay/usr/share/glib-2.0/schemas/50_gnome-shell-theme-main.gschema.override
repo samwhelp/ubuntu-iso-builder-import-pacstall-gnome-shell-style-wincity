@@ -3,7 +3,7 @@
 [org.gnome.desktop.interface]
 color-scheme='prefer-dark'
 gtk-theme='Win11-Dark'
-icon-theme='Citrus-red-dark'
+icon-theme='Win11-dark'
 cursor-theme='breeze_cursors'
 cursor-size=24
 
